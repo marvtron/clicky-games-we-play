@@ -7,6 +7,8 @@ Once the user's score is reset after an incorrect guess, the game will restart.
 
 Enjoy!!
 
+https://marvtron.github.io/clicky-games-we-play/
+
 
 ![GitHub Logo](screenShot.jpg)
 
